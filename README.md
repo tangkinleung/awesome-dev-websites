@@ -26,3 +26,4 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Daniel Strong](http://danielstrong.io/) ![Sittiphol Phanvilai](https://i.imgur.com/XhNZKMO.png)
 - [Brent Jackson](http://jxnblk.com/) ![Brent Jackson](https://i.imgur.com/3HFTKqv.png)
 - [Sean Halpin](http://seanhalpin.io/) ![Sean Halpin](https://i.imgur.com/Tz6OPK8.png)
+- [Robby Leonardi](http://www.rleonardi.com/interactive-resume/) ![Robby Leonardi](https://i.imgur.com/L3DS84D.png)
