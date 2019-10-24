@@ -3,6 +3,7 @@
 A list of developer's personal websites that are interesting in their own way: design, originality, craziness or simply effectiveness.
 
 - [Sam Craig](https://samcraig.io/) ![Sittiphol Phanvilai](https://i.imgur.com/0X3Ne8B.png)
+- [Bruno Simon](https://bruno-simon.com/) ![Bruno Simon](https://i.imgur.com/BZh0o4K.png)
 - [Andy Patrick Design](http://www.andypatrickdesign.com/) ![Andy Patrick Design](https://i.imgur.com/Qdd9eae.jpg)
 - [Gilles Vermeulen](https://gillesvermeulen.be/) ![Gilles Vermeulen](https://i.imgur.com/5r4nIhC.png)
 - [CJ Gammon](http://www.cjgammon.com/) ![CJ Gammon](https://i.imgur.com/FjYHk9e.png)
