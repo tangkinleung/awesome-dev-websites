@@ -5,6 +5,7 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Bruno Simon](https://bruno-simon.com/) ![Bruno Simon](https://i.imgur.com/BZh0o4K.png)
 - [Andy Patrick Design](http://www.andypatrickdesign.com/) ![Andy Patrick Design](https://i.imgur.com/Qdd9eae.jpg)
 - [Gilles Vermeulen](https://gillesvermeulen.be/) ![Gilles Vermeulen](https://i.imgur.com/5r4nIhC.png)
+- [Vivek Patel](https://vivek9patel.github.io) ![Vivek Patel](https://i.imgur.com/idPblY7.jpg) 
 - [CJ Gammon](http://www.cjgammon.com/) ![CJ Gammon](https://i.imgur.com/FjYHk9e.png)
 - [Daniel X Moore](https://whimsy.space/) ![Daniel X Moore](https://i.imgur.com/Wgu476o.png)
 - [David Dias](https://thedaviddias.me/) ![David Dias](https://i.imgur.com/GJlSFUB.png)
