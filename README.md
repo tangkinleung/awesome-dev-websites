@@ -9,7 +9,6 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Ash Kyd](https://ash.ms/2019-10-02/retro-website-launch/) ![Ash Kyd](https://imgur.com/Eab6jX1.jpg) 
 - [CJ Gammon](http://www.cjgammon.com/) ![CJ Gammon](https://i.imgur.com/FjYHk9e.png)
 - [Daniel X Moore](https://whimsy.space/) ![Daniel X Moore](https://i.imgur.com/Wgu476o.png)
-- [David Dias](https://thedaviddias.me/) ![David Dias](https://i.imgur.com/GJlSFUB.png)
 - [Eduardo San Martin Morote](https://posva.net/) ![Eduardo San Martin Morote](https://i.imgur.com/G5cVeAK.png)
 - [Evan You](http://evanyou.me/) ![Evan You](https://i.imgur.com/BwPOvOv.png)
 - [Hakim El Hattab](https://hakim.se/) ![Hakim El Hattab](https://i.imgur.com/bTIROyW.png)
